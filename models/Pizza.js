@@ -1,7 +1,7 @@
-const { schema, model } = require('mongoose');
+const { Schema, model } = require('mongoose');
 
 
-const Pizzaschema = new schema({
+const PizzaSchema = new Schema({
     pizzaName: {
         type: String
     },

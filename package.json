@@ -13,5 +13,14 @@
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^6.3.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandy-06/pizza-find.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sandy-06/pizza-find/issues"
+  },
+  "homepage": "https://github.com/sandy-06/pizza-find#readme"
 }
